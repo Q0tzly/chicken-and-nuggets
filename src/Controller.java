@@ -14,7 +14,7 @@ public class Controller extends KeyAdapter {
             model.onSpacePressed();
         }
         if (e.getKeyCode() == KeyEvent.VK_S) {
-          model.togglePause();
+            model.togglePause();
         }
         if (e.getKeyCode() == KeyEvent.VK_Q) {
             System.exit(0);
