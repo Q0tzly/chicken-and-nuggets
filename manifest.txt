@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Main-Class: Main
 Implementation-Title: Chicken and Nuggets
-Implementation-Version: 1.0.0
+Implementation-Version: 2.0.0
 Created-By: Q0tzly
